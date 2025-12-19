@@ -5,11 +5,11 @@
 </p>
 
 ## Overview
-DEBIX LoRa Board fits DEBIX Model A/B, DEBIX Infinity and DEBIX R3576-01, and provides a Mini PCIe interface for LoRa Module. LoRa enables long-range transmissions with low power con-sumption. In addition to a LoRa Antenna Connector
+DEBIX LoRa Board fits DEBIX Model A/B and DEBIX Infinity, and provides a Mini PCIe interface for LoRa Module. LoRa enables long-range transmissions with low power con-sumption. In addition to a LoRa Antenna Connector
 , it also has a Wifi Antenna Connector and Bluetooth Pairing Button.
 
 ## Compatibility:
-Compatible with DEBIX Model A, DEBIX Model B, DEBIX Infinity, DEBIX R3576-01
+Compatible with DEBIX Model A, DEBIX Model B, DEBIX Infinity
 
 <p align="center">
 <img  width=auto height=auto src="./Media_Assets/LoRa_Board_2.png" alt="LoRa_Board_2">
